@@ -23,9 +23,6 @@ The analysis gave me some awesome insights! I could see exactly how much revenue
 I also got a clear picture of how many bookings were successful versus cancelled, and which cities had higher cancellation rates. For example, 
 I could see revenue jump during certain weeks, probably due to local events, and identify the room types that were consistently top earners.
 
-My Go-To Tool:
-Power BI was my best friend throughout this project!
-
 Why It Matters:
 This project offers super valuable insights for anyone in hotel management. 
 It helps them make smarter decisions about pricing, fine-tune their marketing efforts, run things more efficiently, and find new ways to grow their business. 
