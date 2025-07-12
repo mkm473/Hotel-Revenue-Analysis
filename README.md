@@ -1,4 +1,6 @@
-My Hospitality Revenue Project: Unpacking Hotel Performance in India
+My Hospitality Revenue Project: 
+Unpacking Hotel Performance in India
+
 Hey there! I worked on a cool data project looking into hotel bookings across four big Indian cities: Delhi, Mumbai, Hyderabad, and Bangalore. 
 My main goal was to figure out how much revenue hotels were making, breaking it down by different room types (from comfy premium rooms to super luxurious suites), 
 and seeing how successful bookings stacked up against cancellations over a three-month period.
